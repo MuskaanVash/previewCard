@@ -17,8 +17,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/yourusername/product-preview-card-component](https://github.com/MuskaanVash/previewCard)
-- Live Site URL: [https://your-live-site-url.com](https://your-live-site-url.com)
+- **Solution URL**: [https://github.com/MuskaanVash/previewCard](https://github.com/MuskaanVash/previewCard)
+- **Live Site URL**: [https://muskaanvash.github.io/previewCard/](https://muskaanvash.github.io/previewCard/)
+
 
 ## My process
 
