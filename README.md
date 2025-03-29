@@ -42,6 +42,8 @@ For example, I used `display: flex;` and `flex-direction: column;` for smaller s
   justify-content: center;
   align-items: center;
 }
+
+```
 Continued development
 In future projects, I plan to continue experimenting with Sass and CSS custom properties (variables) to manage styles more efficiently and keep the code cleaner. I would also like to explore more advanced responsive design techniques.
 
@@ -52,5 +54,3 @@ Udemy Angela Yu's Course - Excellent course for learning full-stack web developm
 
 Author
 Frontend Mentor - @MuskaanVash
-
-
