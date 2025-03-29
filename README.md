@@ -17,8 +17,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/yourusername/product-preview-card-component](https://github.com/yourusername/product-preview-card-component)
-- Live Site URL: [https://your-live-site-url.com](https://your-live-site-url.com)
+- **Solution URL**: [https://github.com/MuskaanVash/previewCard](https://github.com/MuskaanVash/previewCard)
+- **Live Site URL**: [https://muskaanvash.github.io/previewCard/](https://muskaanvash.github.io/previewCard/)
+
 
 ## My process
 
@@ -42,15 +43,18 @@ For example, I used `display: flex;` and `flex-direction: column;` for smaller s
   justify-content: center;
   align-items: center;
 }
-Continued development
+
+```
+### Continued development
+
 In future projects, I plan to continue experimenting with Sass and CSS custom properties (variables) to manage styles more efficiently and keep the code cleaner. I would also like to explore more advanced responsive design techniques.
 
-Useful resources
+### Useful resources
+
 Scrimba Frontend Path - A great resource for structured learning in web development.
 
 Udemy Angela Yu's Course - Excellent course for learning full-stack web development and diving deeper into HTML, CSS, and JavaScript.
 
-Author
+### Author
+
 Frontend Mentor - @MuskaanVash
-
-
