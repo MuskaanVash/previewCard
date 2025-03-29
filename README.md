@@ -44,13 +44,13 @@ For example, I used `display: flex;` and `flex-direction: column;` for smaller s
 }
 
 ```
-Continued development
+###Continued development
 In future projects, I plan to continue experimenting with Sass and CSS custom properties (variables) to manage styles more efficiently and keep the code cleaner. I would also like to explore more advanced responsive design techniques.
 
-Useful resources
+###Useful resources
 Scrimba Frontend Path - A great resource for structured learning in web development.
 
 Udemy Angela Yu's Course - Excellent course for learning full-stack web development and diving deeper into HTML, CSS, and JavaScript.
 
-Author
+###Author
 Frontend Mentor - @MuskaanVash
